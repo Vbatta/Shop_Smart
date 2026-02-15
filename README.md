@@ -1,4 +1,4 @@
-## 🛒 Shop Smart E-commerce Revenue Prediction
+# 🛒 Shop Smart E-commerce Revenue Prediction
 ## Project Overview
 
 This project focuses on predicting whether a user will generate revenue (purchase) on an e-commerce website using machine learning.
