@@ -120,9 +120,9 @@ The model was optimized by:
 
 ## Evaluation Metrics
 
-- Accuracy Score - 0.9012090828664111
+- Accuracy Score - 0.901209
 
-- F1 Score - 0.5711610486891385
+- F1 Score - 0.571161
 
 F1 Score is used to handle class imbalance effectively.
 
